@@ -19,3 +19,5 @@ let windAudio
 let audioBackground;
 let audioWind;
 
+let myPetFirstOne = Jelly;
+let myPetSecondOne = Vanilla;
